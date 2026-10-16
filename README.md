@@ -30,7 +30,7 @@ Mi experiencia incluye el desarrollo y mantenimiento de **sitios corporativos**,
 
 **Grupo México Infraestructura · Astro, TypeScript y Tailwind CSS**
 
-Me encargué del desarrollo y mantenimiento de **33 sitios corporativos**, estandarizando una arquitectura reutilizable para facilitar su evolución. Creé una biblioteca de componentes y plantillas adaptables que redujo un **50 % el tiempo de desarrollo**.
+Me encargué del desarrollo y mantenimiento de **sitios corporativos**, estandarizando una arquitectura reutilizable para facilitar su evolución. Creé una biblioteca de componentes y plantillas adaptables que redujo un **el tiempo de desarrollo**.
 
 También trabajé en rendimiento con carga diferida, optimización de imágenes y diseño mobile-first; integré Google Maps API, GA4 y Firebase, y automaticé despliegues de producción y preview en Vercel con posibilidad de rollback.
 
@@ -38,7 +38,7 @@ También trabajé en rendimiento con carga diferida, optimización de imágenes 
 
 **Grupo México Infraestructura · Autenticación, roles y colaboración**
 
-Diseñé y desarrollé una plataforma para **más de 100 usuarios**, con autenticación, acceso por roles y gestión colaborativa de contenido. Convertí los requisitos de las áreas involucradas en flujos de trabajo, implementación, pruebas manuales y documentación.
+Diseñé y desarrollé una plataforma para **más de 200 usuarios**, con autenticación, acceso por roles y gestión colaborativa de contenido. Convertí los requisitos de las áreas involucradas en flujos de trabajo, implementación, pruebas manuales y documentación.
 
 ### Plataforma educativa
 
